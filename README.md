@@ -7,4 +7,5 @@
 
 
 Output ScreenShots 
+
 <img width="782" alt="image" src="https://github.com/rahullli/Factory_design_pattern/assets/60139552/ab4332c2-fa23-467a-8429-aeaad2d38ec7">
